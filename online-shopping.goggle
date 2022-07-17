@@ -6,29 +6,57 @@
 ! Before using, please walk through this file and add your custom sizes. If there are any search paramters you aren't interested in,
 ! feel free to comment them out.
 
-! Enter a range for preferred shoe size below (ex. [TODO]).
+! Enter your preferred shoe size below You may uncomment/copy more lines to add additional sizes that you might still want to look at.
 
-/size-<MY-PREFERRED-SHOE-SIZE>
+size-<MY-PREFERRED-SHOE-SIZE>$inurl
+Size-<MY-PREFERRED-SHOE-SIZE>$inurl
+! size-<ANOTHER-SHOE-SIZE-THAT-MIGHT-WORK>$inurl
+! Size-<ANOTHER-SHOE-SIZE-THAT-MIGHT-WORK>$inurl
 
 ! Un-comment one of the following blocks according to your gender. 
 
-TODO
+! mens$inurl
+! men%27s$inurl
 
-! Un-comment any shirt sizes that apply to you. 
+! womens$inurl
+! women%27s$inurl
+! ladies$inurl
 
-TODO
+! Un-comment the set(s) of shirt sizes that apply to you. 
 
-! Enter your pant size. 
+! -XS-$inurl
+! -xs-$inurl
+! xtra-small$inurl
 
-TODO
+! -S-$inurl
+! -s-$inurl
+! -small-$inurl
 
-! Enter a range for your preferred pants size below (ex. [TODO])
+! -M-$inurl
+! -m-$inurl
+! -medium-$inurl
 
-/size-<MY-PREFERRED-PANT-SIZE>
+! -L-$inurl
+! -l-$inurl
+! -large-$inurl
 
-! Enter a range for your preferred dress sizes. (ex. [TODO])
+! -XL-$inurl
+! -xl-$inurl
+! xtra-large-$inurl
 
-/size-<MY-PREFERRED-DRESS-SIZE>
+! Enter your preferred pant size. 
+
+size-<MY-PREFERRED-PANTS-SIZE>$inurl
+Size-<MY-PREFERRED-PANTS-SIZE>$inurl
+! size-<ANOTHER-PANT-SIZE-THAT-MIGHT-WORK>$inurl
+! Size-<ANOTHER-PANT-SIZE-THAT-MIGHT-WORK>$inurl
+
+! Enter your preferred dress size. 
+
+size-<MY-PREFERRED-DRESS-SIZE>$inurl
+Size-<MY-PREFERRED-DRESS-SIZE>$inurl
+! size-<ANOTHER-DRESS-SIZE-THAT-MIGHT-WORK>$inurl
+! Size-<ANOTHER-DRESS-SIZE-THAT-MIGHT-WORK>$inurl
 
 ! Enter the url suffix for the country you prefer to shop in. Here, the default is Canada (.ca)
 
