@@ -6,10 +6,10 @@
 ! Before using, please walk through this file and add your custom sizes. If there are any search paramters you aren't interested in,
 ! feel free to comment them out.
 
-! Enter your preferred shoe size below You may uncomment/copy more lines to add additional sizes that you might still want to look at.
+! Replace my shoe size (7) with your size below. You may uncomment/copy more lines to add additional sizes that you might still want to look at.
 
-size-<MY-PREFERRED-SHOE-SIZE>$inurl
-Size-<MY-PREFERRED-SHOE-SIZE>$inurl
+size-7$inurl
+Size-7$inurl
 ! size-<ANOTHER-SHOE-SIZE-THAT-MIGHT-WORK>$inurl
 ! Size-<ANOTHER-SHOE-SIZE-THAT-MIGHT-WORK>$inurl
 
@@ -18,19 +18,19 @@ Size-<MY-PREFERRED-SHOE-SIZE>$inurl
 ! mens$inurl
 ! men%27s$inurl
 
-! womens$inurl
-! women%27s$inurl
-! ladies$inurl
+womens$inurl
+women%27s$inurl
+ladies$inurl
 
-! Un-comment the set(s) of shirt sizes that apply to you. 
+! Un-comment the set(s) of shirt sizes that apply to you, and comment mine out if necessary.
 
 ! -XS-$inurl
 ! -xs-$inurl
 ! xtra-small$inurl
 
-! -S-$inurl
-! -s-$inurl
-! -small-$inurl
+-S-$inurl
+-s-$inurl
+-small-$inurl
 
 ! -M-$inurl
 ! -m-$inurl
@@ -46,15 +46,15 @@ Size-<MY-PREFERRED-SHOE-SIZE>$inurl
 
 ! Enter your preferred pant size. 
 
-size-<MY-PREFERRED-PANTS-SIZE>$inurl
-Size-<MY-PREFERRED-PANTS-SIZE>$inurl
+size-28$inurl
+Size-28$inurl
 ! size-<ANOTHER-PANT-SIZE-THAT-MIGHT-WORK>$inurl
 ! Size-<ANOTHER-PANT-SIZE-THAT-MIGHT-WORK>$inurl
 
-! Enter your preferred dress size. 
+! Enter your preferred dress size. Unfortunately you might also see shoes in this size, sorry.
 
-size-<MY-PREFERRED-DRESS-SIZE>$inurl
-Size-<MY-PREFERRED-DRESS-SIZE>$inurl
+size-6$inurl
+Size-6$inurl
 ! size-<ANOTHER-DRESS-SIZE-THAT-MIGHT-WORK>$inurl
 ! Size-<ANOTHER-DRESS-SIZE-THAT-MIGHT-WORK>$inurl
 
