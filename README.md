@@ -9,7 +9,7 @@ Here are the steps to using this goggle:
 3. Walk through the instructions in the copied goggle and edit it according to your sizes and preferences. 
 4. When you're happy with it, commit and push the changes. 
 5. Navigate to the url where your goggle lives in github. 
-6. Submit the url to Brave (here)[https://search.brave.com/goggles/create]
+6. Submit the url to Brave [here](https://search.brave.com/goggles/create)
 7. Great Success! 
 
 If you have any problems or questions, feel free to add an issue in the repo. Enjoy your shopping! 
