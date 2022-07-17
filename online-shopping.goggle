@@ -1,0 +1,35 @@
+! name: Online Shopping
+! description: A customizable goggle that filters for specific clothing and shoe sizes and favouring companies based in a specific country.
+! public: true
+! author: Ashley Herman
+
+! Before using, please walk through this file and add your custom sizes. If there are any search paramters you aren't interested in,
+! feel free to comment them out.
+
+! Enter a range for preferred shoe size below (ex. [TODO]).
+
+/size-<MY-PREFERRED-SHOE-SIZE>
+
+! Un-comment one of the following blocks according to your gender. 
+
+TODO
+
+! Un-comment any shirt sizes that apply to you. 
+
+TODO
+
+! Enter your pant size. 
+
+TODO
+
+! Enter a range for your preferred pants size below (ex. [TODO])
+
+/size-<MY-PREFERRED-PANT-SIZE>
+
+! Enter a range for your preferred dress sizes. (ex. [TODO])
+
+/size-<MY-PREFERRED-DRESS-SIZE>
+
+! Enter the url suffix for the country you prefer to shop in. Here, the default is Canada (.ca)
+
+.ca$inurl
